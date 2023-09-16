@@ -1,0 +1,113 @@
+---
+object: card
+id: 6de7be0f-6f8a-4e34-a659-70b0eb2be6c0
+oracle_id: ec3d4466-547c-4e02-b1b5-a156ec4637e9
+multiverse_ids: []
+tcgplayer_id: 38409
+cardmarket_id: 20797
+name: Chrome Mox
+lang: en
+released_at: '2009-01-01'
+uri: https://api.scryfall.com/cards/6de7be0f-6f8a-4e34-a659-70b0eb2be6c0
+scryfall_uri: https://scryfall.com/card/pgpx/2009/chrome-mox?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/d/6de7be0f-6f8a-4e34-a659-70b0eb2be6c0.jpg?1561929921
+  normal: https://cards.scryfall.io/normal/front/6/d/6de7be0f-6f8a-4e34-a659-70b0eb2be6c0.jpg?1561929921
+  large: https://cards.scryfall.io/large/front/6/d/6de7be0f-6f8a-4e34-a659-70b0eb2be6c0.jpg?1561929921
+  png: https://cards.scryfall.io/png/front/6/d/6de7be0f-6f8a-4e34-a659-70b0eb2be6c0.png?1561929921
+  art_crop: https://cards.scryfall.io/art_crop/front/6/d/6de7be0f-6f8a-4e34-a659-70b0eb2be6c0.jpg?1561929921
+  border_crop: https://cards.scryfall.io/border_crop/front/6/d/6de7be0f-6f8a-4e34-a659-70b0eb2be6c0.jpg?1561929921
+mana_cost: "{0}"
+cmc: 0.0
+type_line: Artifact
+oracle_text: |-
+  Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.
+  {T}: Add one mana of any of the exiled card's colors.
+colors: []
+color_identity: []
+keywords:
+- Imprint
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: banned
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: '08e04147-c201-4c75-9b30-a566164ecaf3'
+set: pgpx
+set_name: Grand Prix Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/08e04147-c201-4c75-9b30-a566164ecaf3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apgpx&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pgpx?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6de7be0f-6f8a-4e34-a659-70b0eb2be6c0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aec3d4466-547c-4e02-b1b5-a156ec4637e9&unique=prints
+collector_number: '2009'
+digital: false
+rarity: rare
+watermark: grandprix
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alan Pollack
+artist_ids:
+- 70c20ea3-5ad6-4082-a337-6e994ae5828e
+illustration_id: 3d61713c-727d-4040-bf89-93a13fc8211a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+edhrec_rank: 116
+prices:
+  usd: 
+  usd_foil: '132.59'
+  usd_etched: 
+  eur: 
+  eur_foil: '85.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chrome+Mox&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chrome+Mox&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chrome+Mox
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38409?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chrome+Mox&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chrome+Mox&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
